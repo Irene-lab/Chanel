@@ -1,0 +1,43 @@
+header{
+    background-color: rgb(255, 255, 255);
+    width: 100%;
+    position: fixed;
+    border-bottom:1px solid #ececec;
+    z-index: 10;
+}
+   .logo{
+    width:200px ;
+     height:45px ;
+    }
+    .img{
+    text-align:center;
+    }
+    nav{
+   margin: 10px 0px ; 
+   display: flex;
+}
+
+nav a {
+  text-decoration: none;
+   padding-right: 20px;
+   color: black;
+}
+body{
+    font-family: sans-serif;
+    bottom: 500px;
+}
+p{
+  text-align: center;
+}
+main{
+  background-color: rgb(255, 255, 255);
+    width: 100%;
+    z-index: 1;
+    padding: 160px;
+}
+.bock1{
+    background: url("img/1714467073432-homepagecorpoonedesktopjpg_1255x2880\ 1.png");
+}
+.footer{
+    text-align: left;
+}
