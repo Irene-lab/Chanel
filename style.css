@@ -41,8 +41,12 @@ main{
     padding: 160px;
 }
 .bock1{
-    background-image: url("img/1714467073432-homepagecorpoonedesktopjpg_1255x2880\ 1.png");
+   position: relative;
 }
 .footer{
     text-align: left;
+  display: flex;
+  justify-content: space-around;
+    flex-wrap: wrap;
 }
+  
